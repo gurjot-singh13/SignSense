@@ -1,4 +1,5 @@
 SIGN SENSE
+
 About This Project
 SignSense uses TensorFlow.js, MediaPipe, and OpenCV to detect and recognize American Sign Language (ASL) gestures in real-time through your webcam.
 
